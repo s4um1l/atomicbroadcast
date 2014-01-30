@@ -1,0 +1,9 @@
+# Any text following ‘#’ should be ignored
+5 # Total number of nodes
+# NodeID - Domain name - port number
+0 net01.utdallas.edu 53390 # Domain Name and port of node 0
+1 net02.utdallas.edu 53345 # Domain Name and port of node 1
+2 net03.utdallas.edu 53345 # Domain Name and port of node 2
+3 net04.utdallas.edu 53345 # Domain Name and port of node 3
+4 net05.utdallas.edu 53345 # Domain Name and port of node 4
+
